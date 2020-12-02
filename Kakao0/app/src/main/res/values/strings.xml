@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">Kakao0</string>
-    <string name="kakao_app_key">bacbdd60c64ae4be4b492c2bbacc1c6c</string>
-    <string name="restapi_key">KakaoAK 33018cebee321ddad830b13327361742</string>
-    <string name="kakao_scheme">kakaobacbdd60c64ae4be4b492c2bbacc1c6c</string>
 
     <string name="text_kakaostory">KakaoStory</string>
     <string name="text_kakaotalk">KakaoTalk</string>
